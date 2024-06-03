@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="title">Rock, Paper, Scissors</string>
+    <string name="rock">rock</string>
+    <string name="playerchoice">playerChoice</string>
+    <string name="paper">Paper</string>
+    <string name="rockBtn">Rock</string>
+    <string name="scissors">Scissors</string>
+    <string name="computer">Computer:</string>
+    <string name="player">Player:</string>
+    <string name="score">Score:</string>
+    <string name="playerScore">Score:</string>
+    <string name="computer_score">Computer Score:</string>
+    <string name="player_score">Player Score:</string>
+    <string name="compScoreVal">0</string>
+    <string name="playerScoreVal">0</string>
+    <string name="winner">Winner!</string>
+    <string name="draw">Draw!</string>
+    <string name="play_again">Play again?</string>
+    <string name="player_wins">Player Wins: %d</string>
+
+</resources>
